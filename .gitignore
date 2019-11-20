@@ -4,3 +4,15 @@ data_test1_blank/
 data_test2_blank/
 
 data_train/
+
+.ipynb_checkpoints/
+
+data/
+
+.idea/
+
+64.txt
+
+16.txt
+
+32.txt
